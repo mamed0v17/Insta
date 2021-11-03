@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homeFragment"
+        android:icon="@drawable/home"
+        tools:ignore="MenuTitle" />
+    <item android:id="@+id/activityFragment"
+        android:icon="@drawable/like"
+        tools:ignore="MenuTitle" />
+    <item android:id="@+id/profileFragment"
+        android:icon="@drawable/profile"
+        tools:ignore="MenuTitle" />
+
+</menu>
